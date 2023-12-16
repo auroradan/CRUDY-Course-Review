@@ -2,10 +2,10 @@
 # Homework 6 - CRUDdy Course Reviews
 
 ## Authors
-1) Dan Tran, nay3at, [auroradan]
-2) Ronit Reddy, kus4ws, [ronitreddy]
-3) David Truong, bdz4ze, [bdz4ze]
-4) Kat Fong, xvs5zs, [Kat-Fong]
+1) Dan Tran
+2) Ronit Reddy
+3) David Truong
+4) Kat Fong
 
 ## To Run
 
